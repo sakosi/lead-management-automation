@@ -1,5 +1,3 @@
-# lead-management-automation
-Automated lead management using n8n
 # Lead Management Automation
 
 ## Overview
